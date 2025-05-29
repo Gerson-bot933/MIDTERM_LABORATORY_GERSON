@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dlu7bfss8ig0d"
+path="res://.godot/imported/Mario Death - Sound Effect (HD).mp3-a136cecb96070c98ec67ad2d8b3ab375.mp3str"
+
+[deps]
+
+source_file="res://Mario Death - Sound Effect (HD).mp3"
+dest_files=["res://.godot/imported/Mario Death - Sound Effect (HD).mp3-a136cecb96070c98ec67ad2d8b3ab375.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

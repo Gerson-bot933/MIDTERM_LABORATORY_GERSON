@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://6jicvb0vp6up"
+path="res://.godot/imported/2 Min Background Music - Chase (Game, Suspense, Action, Epic).mp3-205967fabf958c0831ef961998d09984.mp3str"
+
+[deps]
+
+source_file="res://2 Min Background Music - Chase (Game, Suspense, Action, Epic).mp3"
+dest_files=["res://.godot/imported/2 Min Background Music - Chase (Game, Suspense, Action, Epic).mp3-205967fabf958c0831ef961998d09984.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
